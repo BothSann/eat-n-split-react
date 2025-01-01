@@ -15,7 +15,7 @@ A simple React application to help friends split their restaurant bills and keep
 1. Clone this repository:
 
 ```bash
-    git clone https://github.com/yourusername/eat-n-split-react.git
+    git clone https://github.com/BothSann/eat-n-split-react.git
 ```
 
 2. Navigate to the project directory:
